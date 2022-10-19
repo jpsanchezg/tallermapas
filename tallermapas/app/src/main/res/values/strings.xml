@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tallermapas</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="open_street_maps">Open Street Maps</string>
+    <string name="google_maps">Google maps</string>
+    <string name="bing_maps">Bing Maps</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoianVhbnNhbmNoZXpnIiwiYSI6ImNsOTB0NnM2ZDEzcmIzb21mNWt2ZnozbXkifQ.Q2bMu26EOwI2S_PDt7ifgg</string>
+
+</resources>
